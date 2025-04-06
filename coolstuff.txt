@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 <p>This will absolutely not work</p>
 <p>We're doomed!</p>
+=======
+<p>This better work</p>
+>>>>>>> feature-creep
